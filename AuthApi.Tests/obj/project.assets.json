@@ -7860,11 +7860,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repos\\AuthApi.Tests\\AuthApi.Tests.csproj",
+      "projectUniqueName": "C:\\repos\\challenge-mi-app-back\\AuthApi.Tests\\AuthApi.Tests.csproj",
       "projectName": "AuthApi.Tests",
-      "projectPath": "C:\\repos\\AuthApi.Tests\\AuthApi.Tests.csproj",
+      "projectPath": "C:\\repos\\challenge-mi-app-back\\AuthApi.Tests\\AuthApi.Tests.csproj",
       "packagesPath": "C:\\Users\\raves\\.nuget\\packages\\",
-      "outputPath": "C:\\repos\\AuthApi.Tests\\obj\\",
+      "outputPath": "C:\\repos\\challenge-mi-app-back\\AuthApi.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -7886,8 +7886,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\repos\\AuthApi\\AuthApi.csproj": {
-              "projectPath": "C:\\repos\\AuthApi\\AuthApi.csproj"
+            "C:\\repos\\challenge-mi-app-back\\AuthApi\\AuthApi.csproj": {
+              "projectPath": "C:\\repos\\challenge-mi-app-back\\AuthApi\\AuthApi.csproj"
             }
           }
         }
